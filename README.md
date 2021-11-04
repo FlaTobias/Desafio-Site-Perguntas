@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src=".github/rocketq.png" width="220px" />
+  <p>"Rocket.Q"</p>
 </h1>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,10 +13,6 @@
 </p>
 <br>
 
-<p align="center">
-  <img alt="Rocket.Q" src=".github/Rocket_Q.png" width="100%">
-  <img alt="Rocket.Q" src=".github/capa.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
